@@ -73,3 +73,9 @@ typings/
 .serverless
 
 dist
+
+# Environment variables
+.env
+
+# Api testing
+test.http
